@@ -1,4 +1,5 @@
 1-compile with : gcc os.cpp
+
 2-run with : ./a.out fileName toFindWord
 
 (fileName : enter the exact fileName, ex:test.txt 
